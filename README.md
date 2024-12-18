@@ -8,7 +8,7 @@ Real-Time HAT™ for Bookworm 32bit
 git clone --depth 1 https://github.com/morteza1984/RealtimeHAT-Bookworm-32bit-Beta.git
 cd RealtimeHAT
 chmod +x install.sh
-./install.sh
+sudo ./install.sh
 ```
 ## Copy bitstream
 
